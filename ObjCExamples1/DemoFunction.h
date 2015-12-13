@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  DemoFunction.h
 //  ObjCExamples1
 //
 //  Created by Hoàng Thái on 12/13/15.
 //  Copyright © 2015 HOANGTHAI. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ConsoleScreen.h"
 
-@interface ViewController : UIViewController
-
+@interface DemoFunction : ConsoleScreen
 
 @end
-

@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  DemoSelector.h
 //  ObjCExamples1
 //
 //  Created by Hoàng Thái on 12/13/15.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface DemoSelector : UIViewController
 
 @end
-
